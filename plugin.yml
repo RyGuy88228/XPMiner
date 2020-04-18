@@ -1,0 +1,11 @@
+name: XPMiner
+version: 1.0
+description: Takes experience away from a player whenever they break a block!
+author: RyGuy
+main: us.ryguy.xpminer.XPMiner
+commands:
+  xpminer:
+    description: Central XPMiner Command
+    aliases: [xp_miner, xpmine, xpm]
+    permission: xpMiner
+    usage: /xpminer [arg0] [arg1]
